@@ -137,7 +137,7 @@ while True:
 
     
     if current_state == START:
-        pygame.display.set_caption("𝒫říběhy mé malé vydry - Start")
+        pygame.display.set_caption("𝒫říběhy mé malé vydry - Start Screen")
 
         # Menu background image
         screen.blit(StartBG, (0,-200))     # or     animated background?  make beautiful!!! 
